@@ -1,1 +1,1 @@
-# sfguide-getting-started-with-hybrid-tables-performance-testing
+# Getting Started with Hybrid Tables Performance Testing
